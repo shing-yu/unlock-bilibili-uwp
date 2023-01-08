@@ -1,4 +1,5 @@
 # unlock-bilibili-uwp
+[English](https://github.com/xing-yv/unlock-bilibili-uwp/blob/main/English.md)  
 解密B站UWP版下载的视频
 # B站UWP版视频解锁
 某次更新后，由于版权问题，B站UWP版对其下载的MP4文件进行了加密；  
